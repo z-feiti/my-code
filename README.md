@@ -1,2 +1,2 @@
 # my-code
-used
+learn and pratice
